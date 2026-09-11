@@ -1,0 +1,12 @@
+{
+	"name": "AzureDatabricks1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405608664006591.11.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/0b48436c-4a18-4010-91bc-af961a098b5b/resourceGroups/resource1/providers/Microsoft.Databricks/workspaces/milehighproject"
+		}
+	}
+}
